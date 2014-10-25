@@ -1,0 +1,1923 @@
+Xsession: X session started for pi at Fri Jun 20 10:50:08 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+** (lxsession-logout:2412): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2412): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2412): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2412): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2412): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2412): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 9497 requests (9497 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 0 (Success) on X server :0.
+Xsession: X session started for pi at Fri Jun 20 10:53:11 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+** (lxsession-logout:2522): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2522): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2522): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2522): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2522): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2522): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 10436 requests (10436 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 0 (Success) on X server :0.
+Xsession: X session started for pi at Fri Jun 20 11:07:58 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(pcmanfm:2328): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+** (lxsession-logout:4091): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:4091): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:4091): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:4091): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:4091): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:4091): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 15229 requests (15229 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Xsession: X session started for pi at Thu Sep 18 15:42:56 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+** (lxsession-logout:26271): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:26271): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:26271): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:26271): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:26271): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:26271): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 10850 requests (10850 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 0 (Success) on X server :0.
+Xsession: X session started for pi at Thu Sep 18 16:25:18 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+** (lxsession-logout:26461): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:26461): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:26461): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:26461): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:26461): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:26461): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 7118 requests (7118 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 0 (Success) on X server :0.
+Xsession: X session started for pi at Thu Sep 18 16:27:11 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+** (lxsession-logout:2405): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2405): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2405): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2405): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2405): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2405): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 6446 requests (6446 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 0 (Success) on X server :0.
+Xsession: X session started for pi at Thu Sep 18 16:42:11 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+** (lxsession-logout:2419): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2419): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2419): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2419): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2419): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2419): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 4352 requests (4349 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 0 (Success) on X server :0.
+Xsession: X session started for pi at Fri Sep 19 01:31:51 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+paths: creating directory /home/pi/.dillo.
+paths: Cannot open file '/home/pi/.dillo/dillorc'
+paths: Using /etc/dillo/dillorc
+paths: Cannot open file '/home/pi/.dillo/keysrc'
+paths: Using /etc/dillo/keysrc
+dillo_dns_init: Here we go! (threaded)
+Cookies: Created file: /home/pi/.dillo/cookiesrc
+Disabling cookies.
+Nav_open_url: new url='about:splash'
+Nav_open_url: new url='http://www.google.com'
+Dns_server [0]: www.google.com is 74.125.226.148 74.125.226.144 74.125.226.145 74.125.226.146 74.125.226.147 2607:f8b0:400b:80b::1013
+Connecting to 74.125.226.148
+Redirection not followed from www.google.com to http://www.google.ca/?gfe_rd=cr&ei=qocbVNqBCoiN8Qe0voHgBQ
+Nav_open_url: new url='http://www.google.ca/?gfe_rd=cr&ei=qocbVNqBCoiN8Qe0voHgBQ'
+a_UIcmd_stop()
+Dillo: normal exit!
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+** Message: console message: http://ajax.cloudflare.com/cdn-cgi/nexp/dokv=97fb4d042e/cloudflare.min.js @3: TypeError: 'null' is not an object (evaluating 'b.each')
+
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message:  @0: event.layerX and event.layerY are broken and deprecated in WebKit. They will be removed from the engine in the near future.
+
+** Message: console message: undefined @0: Error requesting /_/scs/apps-static/_/js/k=oz.gapi.en_GB.5Ga67vdlExs.O/m=googleapis_client,iframes_styles_bubble_internal,gapi_iframes_style_common,gapi_iframes_iframer/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AItRSTN4hg4Dkb6cPnxab4PXjErj85FLAg/cb=gapi.loaded_0: 
+Current location: https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&annotation=inline&width=250&origin=http%3A%2F%2Fwww.myfreemp3.cc&url=http%3A%2F%2Fwww.myfreemp3.cc%2F&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_GB.5Ga67vdlExs.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAItRSTN4hg4Dkb6cPnxab4PXjErj85FLAg#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&id=I0_1411090423618&parent=http%3A%2F%2Fwww.myfreemp3.cc&pfname=&rpctoken=38189787
+
+** Message: console message: undefined @0: Error requesting /_/scs/apps-static/_/js/k=oz.gapi.en_GB.5Ga67vdlExs.O/m=googleapis_client,iframes_styles_bubble_internal,gapi_iframes_style_common,gapi_iframes_iframer/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AItRSTN4hg4Dkb6cPnxab4PXjErj85FLAg/cb=gapi.loaded_0: 
+Current location: https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&annotation=inline&width=250&origin=http%3A%2F%2Fwww.myfreemp3.cc&url=http%3A%2F%2Fwww.myfreemp3.cc%2F&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_GB.5Ga67vdlExs.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAItRSTN4hg4Dkb6cPnxab4PXjErj85FLAg#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&id=I2_1411090423729&parent=http%3A%2F%2Fwww.myfreemp3.cc&pfname=&rpctoken=17605059
+
+** Message: console message: undefined @0: Error requesting /_/scs/apps-static/_/js/k=oz.gapi.en_GB.5Ga67vdlExs.O/m=googleapis_client,iframes_styles_bubble_internal,gapi_iframes_style_common,gapi_iframes_iframer/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AItRSTN4hg4Dkb6cPnxab4PXjErj85FLAg/cb=gapi.loaded_0: 
+Current location: https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&annotation=inline&width=250&origin=http%3A%2F%2Fwww.myfreemp3.cc&url=http%3A%2F%2Fwww.myfreemp3.cc%2F&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_GB.5Ga67vdlExs.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAItRSTN4hg4Dkb6cPnxab4PXjErj85FLAg#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&id=I1_1411090423684&parent=http%3A%2F%2Fwww.myfreemp3.cc&pfname=&rpctoken=46256223
+
+** Message: console message: undefined @0: Error requesting /_/scs/apps-static/_/js/k=oz.plusone.en_GB.VYzca3elhlg.O/m=p1b,p1p/rt=j/sv=1/d=1/ed=1/rs=AItRSTOSf9vhgOHp2I86jF0HObl-XzwKJg/cb=gapi.loaded_1: 
+Current location: https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&annotation=inline&width=250&origin=http%3A%2F%2Fwww.myfreemp3.cc&url=http%3A%2F%2Fwww.myfreemp3.cc%2F&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_GB.5Ga67vdlExs.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAItRSTN4hg4Dkb6cPnxab4PXjErj85FLAg#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&id=I1_1411090423684&parent=http%3A%2F%2Fwww.myfreemp3.cc&pfname=&rpctoken=46256223
+
+** Message: console message: undefined @0: Error requesting /_/scs/apps-static/_/js/k=oz.plusone.en_GB.VYzca3elhlg.O/m=p1b,p1p/rt=j/sv=1/d=1/ed=1/rs=AItRSTOSf9vhgOHp2I86jF0HObl-XzwKJg/cb=gapi.loaded_1: 
+Current location: https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&annotation=inline&width=250&origin=http%3A%2F%2Fwww.myfreemp3.cc&url=http%3A%2F%2Fwww.myfreemp3.cc%2F&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_GB.5Ga67vdlExs.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAItRSTN4hg4Dkb6cPnxab4PXjErj85FLAg#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&id=I0_1411090423618&parent=http%3A%2F%2Fwww.myfreemp3.cc&pfname=&rpctoken=38189787
+
+** Message: console message: undefined @0: Error requesting /_/scs/apps-static/_/js/k=oz.plusone.en_GB.VYzca3elhlg.O/m=p1b,p1p/rt=j/sv=1/d=1/ed=1/rs=AItRSTOSf9vhgOHp2I86jF0HObl-XzwKJg/cb=gapi.loaded_1: 
+Current location: https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&annotation=inline&width=250&origin=http%3A%2F%2Fwww.myfreemp3.cc&url=http%3A%2F%2Fwww.myfreemp3.cc%2F&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_GB.5Ga67vdlExs.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAItRSTN4hg4Dkb6cPnxab4PXjErj85FLAg#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&id=I2_1411090423729&parent=http%3A%2F%2Fwww.myfreemp3.cc&pfname=&rpctoken=17605059
+
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+
+(midori:2444): libsoup-WARNING **: (soup-uri.c:1023):soup_uri_set_path: runtime check failed: (path != NULL)
+** Message: console message:  @0: The page at https://www.google.ca/search?biw=1824&bih=884&sclient=psy-ab&q=youtube+mp3&oq=youtube+mp3&gs_l=hp.3...592628.599435.1.599592.18.10.0.0.0.0.0.0..0.0....0...1c.1.53.psy-ab..21.8.1945.JGZKtAfbshc&pbx=1&bav=on.2,or.r_qf.&bvm=bv.75774317%2Cd.b2U%2Cpv.xjs.s.en.Bm-HEjkMeZU.O&ech=1&psi=yocbVM23O-6n8QG0qoG4Bw.1411090383171.5&ei=3YcbVNH_Cob2yQTR2YHYDw&emsg=NCSR&noj=1 displayed insecure content from res://logo-shade.png.
+
+
+** Message: console message:  @0: The page at https://www.google.ca/search?biw=1824&bih=884&sclient=psy-ab&q=youtube+mp3&oq=youtube+mp3&gs_l=hp.3...592628.599435.1.599592.18.10.0.0.0.0.0.0..0.0....0...1c.1.53.psy-ab..21.8.1945.JGZKtAfbshc&pbx=1&bav=on.2,or.r_qf.&bvm=bv.75774317%2Cd.b2U%2Cpv.xjs.s.en.Bm-HEjkMeZU.O&ech=1&psi=yocbVM23O-6n8QG0qoG4Bw.1411090383171.5&ei=3YcbVNH_Cob2yQTR2YHYDw&emsg=NCSR&noj=1 displayed insecure content from stock://gtk-dialog-error.
+
+
+** Message: console message:  @0: The page at https://www.google.ca/search?biw=1824&bih=884&sclient=psy-ab&q=youtube+mp3&oq=youtube+mp3&gs_l=hp.3...592628.599435.1.599592.18.10.0.0.0.0.0.0..0.0....0...1c.1.53.psy-ab..21.8.1945.JGZKtAfbshc&pbx=1&bav=on.2,or.r_qf.&bvm=bv.75774317%2Cd.b2U%2Cpv.xjs.s.en.Bm-HEjkMeZU.O&ech=1&psi=yocbVM23O-6n8QG0qoG4Bw.1411090383171.5&ei=3YcbVNH_Cob2yQTR2YHYDw&emsg=NCSR&noj=1 displayed insecure content from stock://gtk-refresh.
+
+
+
+** (lxsession-logout:6002): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:6002): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:6002): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:6002): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:6002): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:6002): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+openbox: ../../src/xcb_io.c:529: _XAllocID: Assertion `ret != inval_id' failed.
+pcmanfm: Fatal IO error 0 (Success) on X server :0.
+Xsession: X session started for pi at Fri Sep 19 01:48:56 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+** (midori:2430): CRITICAL **: enchant_dict_check: assertion `len' failed
+
+** (midori:2430): CRITICAL **: enchant_dict_check: assertion `len' failed
+
+** (lxsession-logout:2616): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2616): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2616): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2616): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2616): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2616): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2619): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2619): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2619): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2619): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2619): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2619): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+openbox: ../../src/xcb_io.c:529: _XAllocID: Assertion `ret != inval_id' failed.
+Xsession: X session started for pi at Fri Sep 19 02:08:12 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+Warning: no translation found for 'en_GB' locale: /usr/share/qt4/translations/qt_en_GB.qm
+Warning: no translation found for 'en_GB' locale: /usr/share/locale/qjackctl_en_GB.qm
+
+** (lxsession-logout:3084): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:3084): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:3084): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:3084): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:3084): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:3084): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 11345 requests (11342 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 0 (Success) on X server :0.
+Xsession: X session started for pi at Fri Sep 19 02:11:50 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+** (lxsession-logout:3788): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:3788): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:3788): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:3788): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:3788): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:3788): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 20571 requests (20571 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 0 (Success) on X server :0.
+Xsession: X session started for pi at Sat Sep 20 11:25:32 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+
+(lxpanel:2464): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2464): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2464): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2464): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2464): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2465): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2465): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2465): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2465): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2465): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(lxterminal:2495): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2495): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2495): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2495): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2495): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2495): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2495): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2464): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:2537): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(midori:2537): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(midori:2537): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(midori:2537): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(midori:2537): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(midori:2537): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(midori:2537): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:2537): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(midori:2537): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(midori:2537): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(midori:2537): GLib-CRITICAL **: Source ID 286 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 294 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 307 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 322 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 344 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 353 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 365 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 376 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 388 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 399 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 408 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 425 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 434 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 447 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 468 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 477 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 486 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 495 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 508 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 517 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 530 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 543 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 552 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 573 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 582 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 591 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 604 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 633 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 642 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 659 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 672 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 681 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 690 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 699 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 724 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 733 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 743 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 752 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 761 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 770 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 781 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 790 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 799 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 808 was not found when attempting to remove it
+
+(midori:2537): GLib-CRITICAL **: Source ID 817 was not found when attempting to remove it
+
+(lxpanel:2464): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(lxpanel:2464): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(lxpanel:2464): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+** (lxsession-logout:2865): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2865): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2865): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2865): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2865): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2865): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+(lxsession-logout:2865): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxsession-logout:2865): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(openbox:2462): GLib-CRITICAL **: Source ID 7 was not found when attempting to remove it
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 26167 requests (26167 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 0 (Success) on X server :0.
+Xsession: X session started for pi at Sat Oct  4 10:58:13 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+
+(lxpanel:2409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(pcmanfm:2410): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2410): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2410): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2410): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2410): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(lxpanel:2409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+** (lxsession-logout:2469): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2469): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2469): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2469): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2469): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2469): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+(lxsession-logout:2469): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxsession-logout:2469): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 5934 requests (5931 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 0 (Success) on X server :0.
+Xsession: X session started for pi at Sat Oct  4 11:23:19 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+
+(lxpanel:2569): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2569): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2569): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2569): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2569): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2570): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2570): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2570): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2570): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2570): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(midori:2594): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(midori:2594): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(midori:2594): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(midori:2594): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(midori:2594): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(midori:2594): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(midori:2594): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:2594): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(midori:2594): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(midori:2594): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(lxpanel:2569): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:2594): GLib-CRITICAL **: Source ID 1202 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1215 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1227 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1244 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1254 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1264 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1310 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1321 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1332 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1350 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1368 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1378 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1393 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1403 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1413 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1426 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1434 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1453 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1471 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1479 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1494 was not found when attempting to remove it
+
+(midori:2594): GLib-CRITICAL **: Source ID 1504 was not found when attempting to remove it
+
+(lxpanel:2569): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(lxpanel:2569): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(lxpanel:2569): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxterminal:2624): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2624): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2624): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2624): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2624): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2624): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2624): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:2594): libsoup-CRITICAL **: soup_message_io_pause: assertion 'io->read_state < SOUP_MESSAGE_IO_STATE_BODY' failed
+
+(midori:2594): libsoup-CRITICAL **: soup_message_io_pause: assertion 'io->read_state < SOUP_MESSAGE_IO_STATE_BODY' failed
+Xsession: X session started for pi at Thu Oct 16 01:38:27 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+
+(lxpanel:2436): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2436): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2436): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2436): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2436): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2437): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2437): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2437): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2437): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2437): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(midori:2467): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(midori:2467): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2436): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:2467): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(midori:2467): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(midori:2467): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(midori:2467): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(midori:2467): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(midori:2467): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(midori:2467): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(midori:2467): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(midori:2467): GLib-CRITICAL **: Source ID 2589 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2597 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2629 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2640 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2661 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2682 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2691 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2700 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2709 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2721 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2732 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2741 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2782 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2791 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2804 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2813 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2822 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2841 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2850 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2863 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2874 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2883 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2908 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2917 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2929 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2936 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2961 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2970 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2979 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 2992 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 3009 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 3020 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 3033 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 3042 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 3055 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 3068 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 3081 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 3094 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 3103 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 3124 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 3149 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 3158 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 3171 was not found when attempting to remove it
+
+(lxterminal:2506): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2506): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2506): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2506): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2506): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2506): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2506): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(openbox:2434): GLib-CRITICAL **: Source ID 5 was not found when attempting to remove it
+
+(openbox:2434): GLib-CRITICAL **: Source ID 7 was not found when attempting to remove it
+
+(openbox:2434): GLib-CRITICAL **: Source ID 8 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8064 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8073 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8102 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8127 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8140 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8154 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8172 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8181 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8190 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8199 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8248 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8257 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8302 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8311 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8320 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8329 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8342 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8359 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8369 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8376 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8388 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8395 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8404 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8413 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8422 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8451 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8460 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8473 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8482 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8491 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8500 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8525 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8552 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8573 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8586 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8598 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8613 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8624 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8645 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8670 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8679 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8688 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8697 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8706 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8719 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8728 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8745 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8754 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8763 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8775 was not found when attempting to remove it
+
+(midori:2467): GLib-CRITICAL **: Source ID 8786 was not found when attempting to remove it
+
+(openbox:2434): GLib-CRITICAL **: Source ID 9 was not found when attempting to remove it
+
+(openbox:2434): GLib-CRITICAL **: Source ID 11 was not found when attempting to remove it
+
+(openbox:2434): GLib-CRITICAL **: Source ID 10 was not found when attempting to remove it
+
+** (lxsession-logout:3220): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:3220): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:3220): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:3220): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:3220): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:3220): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+(lxsession-logout:3220): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxsession-logout:3220): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(openbox:2434): GLib-CRITICAL **: Source ID 13 was not found when attempting to remove it
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+openbox: ../../src/xcb_io.c:529: _XAllocID: Assertion `ret != inval_id' failed.
+pcmanfm: Fatal IO error 0 (Success) on X server :0.
+Xsession: X session started for pi at Sat Oct 18 12:36:23 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+
+(lxpanel:2408): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2408): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2408): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2408): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2408): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(pcmanfm:2409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2409): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(lxpanel:2408): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:2438): GLib-CRITICAL **: Source ID 571 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 580 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 609 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 651 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 660 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 673 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 685 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 711 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 722 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 747 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 756 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 766 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 934 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 1280 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 1440 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 1587 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 1595 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 1604 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 1635 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 1699 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 1708 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 1718 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 1735 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 2676 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 3652 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 3783 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 3873 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 3892 was not found when attempting to remove it
+
+(openbox:2406): GLib-CRITICAL **: Source ID 5 was not found when attempting to remove it
+
+(openbox:2406): GLib-CRITICAL **: Source ID 6 was not found when attempting to remove it
+
+(lxterminal:2640): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2640): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2640): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2640): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2640): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2640): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2640): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(openbox:2406): GLib-CRITICAL **: Source ID 7 was not found when attempting to remove it
+
+(openbox:2406): GLib-CRITICAL **: Source ID 9 was not found when attempting to remove it
+Xsession: X session started for pi at Wed Oct 22 11:01:19 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+
+(lxpanel:2401): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2401): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2401): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2401): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2401): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2402): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2402): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2402): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2402): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2402): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(midori:2430): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(midori:2430): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2401): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:2430): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(midori:2430): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(midori:2430): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(midori:2430): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(midori:2430): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(midori:2430): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(midori:2430): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(midori:2430): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(lxterminal:2443): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2443): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2443): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2443): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2443): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2443): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2443): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(openbox:2399): GLib-CRITICAL **: Source ID 5 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1671 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1687 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1703 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1712 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1719 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1744 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1753 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1785 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1802 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1816 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1827 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1836 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1845 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1855 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1876 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1886 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1901 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1915 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1922 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1932 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1945 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1954 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1967 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1981 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1990 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 1999 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 2008 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 2017 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 2034 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 3534 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 3760 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 3767 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 3777 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 3786 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 3795 was not found when attempting to remove it
+
+(midori:2430): GLib-CRITICAL **: Source ID 3809 was not found when attempting to remove it
+
+(openbox:2399): GLib-CRITICAL **: Source ID 7 was not found when attempting to remove it
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 22588 requests (22588 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Xsession: X session started for pi at Thu Oct 23 00:16:56 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+
+(lxpanel:2535): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2535): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2535): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2535): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2535): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2536): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2536): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2536): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2536): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2536): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(midori:2704): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(midori:2704): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(midori:2704): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(midori:2704): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(midori:2704): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(midori:2704): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(midori:2704): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:2704): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(midori:2704): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(midori:2704): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(lxpanel:2535): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:2704): GLib-CRITICAL **: Source ID 868 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 891 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 901 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 966 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 979 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 994 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 1004 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 1014 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 1023 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 1032 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 1041 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 1050 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 1059 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 1068 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 1081 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 1094 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 1106 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 1117 was not found when attempting to remove it
+
+(lxterminal:2720): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2720): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2720): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2720): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2720): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2720): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2720): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(openbox:2533): GLib-CRITICAL **: Source ID 5 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2554 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2566 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2579 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2593 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2602 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2638 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2648 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2661 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2670 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2680 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2690 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2703 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2711 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2745 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2760 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2770 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2780 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2790 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 2824 was not found when attempting to remove it
+
+(midori:2704): libsoup-CRITICAL **: soup_message_io_pause: assertion 'io->read_state < SOUP_MESSAGE_IO_STATE_BODY' failed
+
+(openbox:2533): GLib-CRITICAL **: Source ID 7 was not found when attempting to remove it
+
+(openbox:2533): GLib-CRITICAL **: Source ID 10 was not found when attempting to remove it
+
+(openbox:2533): GLib-CRITICAL **: Source ID 9 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6449 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6461 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6471 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6501 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6536 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6554 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6567 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6589 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6611 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6620 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6636 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6648 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6670 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6686 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6698 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6721 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6740 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6754 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6769 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6778 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6796 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6809 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6847 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6854 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6863 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6891 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6909 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6927 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6942 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6951 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6963 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 6987 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7009 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7029 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7054 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7093 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7110 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7121 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7158 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7174 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7202 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7241 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7253 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7275 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7284 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7323 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7332 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7362 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7386 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7401 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7414 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7435 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7456 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7471 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7484 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7493 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7518 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7549 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7558 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7571 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7583 was not found when attempting to remove it
+
+(midori:2704): GLib-CRITICAL **: Source ID 7605 was not found when attempting to remove it
+
+(openbox:2533): GLib-CRITICAL **: Source ID 11 was not found when attempting to remove it
+Xsession: X session started for pi at Fri Oct 24 02:04:26 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+
+(lxpanel:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(pcmanfm:2418): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2418): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2418): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2418): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2418): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2446): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2446): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2446): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2446): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2446): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2446): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2446): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+Xsession: X session started for pi at Sat Oct 25 12:54:45 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+
+(lxpanel:2433): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2433): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2433): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2433): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2433): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(pcmanfm:2434): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2434): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2434): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2434): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2434): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2462): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2433): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(openbox:2431): GLib-CRITICAL **: Source ID 6 was not found when attempting to remove it
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 9033 requests (9033 known processed) with 0 events remaining.
+Xsession: X session started for pi at Sat Oct 25 14:17:37 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+
+(lxpanel:2358): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2358): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2358): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2358): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2358): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2359): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2359): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2359): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2359): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2359): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(lxpanel:2358): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(midori:2438): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(openbox:2356): GLib-CRITICAL **: Source ID 7 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 962 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 975 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 987 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 1007 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 1058 was not found when attempting to remove it
+
+(openbox:2356): GLib-CRITICAL **: Source ID 14 was not found when attempting to remove it
+
+(lxterminal:2941): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2941): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2941): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2941): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2941): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2941): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2941): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(openbox:2356): GLib-CRITICAL **: Source ID 16 was not found when attempting to remove it
+
+(openbox:2356): GLib-CRITICAL **: Source ID 15 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 24184 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 24245 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 24257 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27068 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27076 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27106 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27122 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27132 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27147 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27160 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27174 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27188 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27200 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27216 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27236 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27251 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27263 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27274 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27284 was not found when attempting to remove it
+
+(midori:2438): GLib-CRITICAL **: Source ID 27296 was not found when attempting to remove it
+
+(openbox:2356): GLib-CRITICAL **: Source ID 18 was not found when attempting to remove it
+
+(openbox:2356): GLib-CRITICAL **: Source ID 22 was not found when attempting to remove it
+
+(openbox:2356): GLib-CRITICAL **: Source ID 23 was not found when attempting to remove it
+
+(openbox:2356): GLib-CRITICAL **: Source ID 19 was not found when attempting to remove it
+
+(lxterminal:3127): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:3127): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:3127): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:3127): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:3127): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:3127): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:3127): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(openbox:2356): GLib-CRITICAL **: Source ID 25 was not found when attempting to remove it
+Xsession: X session started for pi at Sat Oct 25 16:19:00 UTC 2014
+
+NOTICE: the software on this Raspberry Pi has not been fully configured. Please run 'sudo raspi-config'
+
+Obt-Message: Xinerama extension is not present on the server
+
+(lxpanel:2359): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2359): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2359): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2359): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2359): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2360): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2360): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2360): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2360): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2360): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(lxterminal:2388): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2388): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2388): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2388): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2388): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2388): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2388): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2359): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised

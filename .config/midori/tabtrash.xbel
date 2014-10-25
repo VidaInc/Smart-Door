@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://www.python.org/topics/xml/dtds/xbel-1.0.dtd">
+<xbel version="1.0" xmlns:midori="http://www.twotoasts.de">
+<info>
+<metadata owner="http://www.twotoasts.de"/>
+</info>
+<bookmark href="https://mail.google.com/mail/u/0/#inbox">
+<title>‪Inbox (16) - p9492719@gmail.com - Gmail</title>
+<info>
+<metadata midori:history-step="1" midori:icon="https://mail.google.com/favicon.ico" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+</xbel>

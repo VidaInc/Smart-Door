@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<!-- git web interface version 1.7.12.rc3, (C) 2005-2006, Kay Sievers <kay.sievers@vrfy.org>, Christian Gierke -->
+<!-- git core binaries version 2.0.0.GIT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<meta name="generator" content="gitweb/1.7.12.rc3 git/2.0.0.GIT"/>
+<meta name="robots" content="index, nofollow"/>
+<title>Drogon Projects | Git - wiringPi/summary</title>
+<link rel="stylesheet" type="text/css" href="static/gitweb.css"/>
+<link rel="alternate" title="wiringPi - log - RSS feed" href="/?p=wiringPi;a=rss" type="application/rss+xml" />
+<link rel="alternate" title="wiringPi - log - RSS feed (no merges)" href="/?p=wiringPi;a=rss;opt=--no-merges" type="application/rss+xml" />
+<link rel="alternate" title="wiringPi - log - Atom feed" href="/?p=wiringPi;a=atom" type="application/atom+xml" />
+<link rel="alternate" title="wiringPi - log - Atom feed (no merges)" href="/?p=wiringPi;a=atom;opt=--no-merges" type="application/atom+xml" />
+<link rel="shortcut icon" href="static/git-favicon.png" type="image/png" />
+</head>
+<body>
+<font size="+2">
+<b>
+<a href="https://projects.drogon.net">Gordons Projects</a></b></font>
+<p><b>--&gt;&nbsp;<a href="https://git.drogon.net">Projects Top-Level GIT</a></b></p>
+<div class="page_header">
+<a title="git homepage" href="http://git-scm.com/"><img class="logo" height="27" src="static/git-logo.png" alt="git" width="72" /></a><a href="/"></a> / <a href="/?p=wiringPi;a=summary">wiringPi</a> / summary
+</div>
+<form method="get" action="/" enctype="application/x-www-form-urlencoded">
+<div class="search">
+<input name="p" type="hidden" value="wiringPi" />
+<input name="a" type="hidden" value="search" />
+<input name="h" type="hidden" value="HEAD" />
+<select name="st" >
+<option selected="selected" value="commit">commit</option>
+<option value="grep">grep</option>
+<option value="author">author</option>
+<option value="committer">committer</option>
+<option value="pickaxe">pickaxe</option>
+</select><sup><a href="/?p=wiringPi;a=search_help">?</a></sup> search:
+<input type="text" name="s"  />
+<span title="Extended regular expression"><label><input type="checkbox" name="sr" value="1" />re</label></span></div>
+</form>
+<div class="page_nav">
+summary | <a href="/?p=wiringPi;a=shortlog">shortlog</a> | <a href="/?p=wiringPi;a=log">log</a> | <a href="/?p=wiringPi;a=commit;h=df45388f6431f7baba31ac1e8e242d89828637a0">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=df45388f6431f7baba31ac1e8e242d89828637a0">commitdiff</a> | <a href="/?p=wiringPi;a=tree">tree</a><br/>
+<br/>
+</div>
+<div class="title">&nbsp;</div>
+<table class="projects_list">
+<tr id="metadata_desc"><td>description</td><td>wiringPi - A 'wiring' like library for the Raspberry Pi</td></tr>
+<tr id="metadata_owner"><td>owner</td><td>GIT</td></tr>
+<tr id="metadata_lchange"><td>last change</td><td><span class="datetime">Thu, 17 Jul 2014 21:23:57 +0000</span> (22:23 +0100)</td></tr>
+</table>
+<div class="header">
+<a class="title" href="/?p=wiringPi;a=shortlog">shortlog</a>
+</div>
+<table class="shortlog">
+<tr class="dark">
+<td title="3 months ago"><i>2014-07-17</i></td>
+<td class="author"><a title="Search for commits authored by Gordon Henderson" class="list" href="/?p=wiringPi;a=search;s=Gordon+Henderson;st=author">Gordon Henderson</a></td><td><a class="list subject" title="Fixed a bug in the gpio readall command on model B's (caused by a side-effect" href="/?p=wiringPi;a=commit;h=df45388f6431f7baba31ac1e8e242d89828637a0">Fixed a bug in the gpio readall command on model B... </a> <span class="refs"> <span class="head" title="heads/master"><a href="/?p=wiringPi;a=shortlog;h=refs/heads/master">master</a></span></span></td>
+<td class="link"><a href="/?p=wiringPi;a=commit;h=df45388f6431f7baba31ac1e8e242d89828637a0">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=df45388f6431f7baba31ac1e8e242d89828637a0">commitdiff</a> | <a href="/?p=wiringPi;a=tree;h=df45388f6431f7baba31ac1e8e242d89828637a0;hb=df45388f6431f7baba31ac1e8e242d89828637a0">tree</a> | <a title="in format: tar.gz" href="/?p=wiringPi;a=snapshot;h=df45388f6431f7baba31ac1e8e242d89828637a0;sf=tgz">snapshot</a></td>
+</tr>
+<tr class="light">
+<td title="3 months ago"><i>2014-07-14</i></td>
+<td class="author"><a title="Search for commits authored by Gordon Henderson" class="list" href="/?p=wiringPi;a=search;s=Gordon+Henderson;st=author">Gordon Henderson</a></td><td><a class="list subject" title="Updated mostly to the gpio readall command to support the Raspberry Pi B+" href="/?p=wiringPi;a=commit;h=dca8a19fb816b1314008d84c092b11148a85715c">Updated mostly to the gpio readall command to support... </a></td>
+<td class="link"><a href="/?p=wiringPi;a=commit;h=dca8a19fb816b1314008d84c092b11148a85715c">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=dca8a19fb816b1314008d84c092b11148a85715c">commitdiff</a> | <a href="/?p=wiringPi;a=tree;h=dca8a19fb816b1314008d84c092b11148a85715c;hb=dca8a19fb816b1314008d84c092b11148a85715c">tree</a> | <a title="in format: tar.gz" href="/?p=wiringPi;a=snapshot;h=dca8a19fb816b1314008d84c092b11148a85715c;sf=tgz">snapshot</a></td>
+</tr>
+<tr class="dark">
+<td title="3 months ago"><i>2014-06-27</i></td>
+<td class="author"><a title="Search for commits authored by Gordon Henderson" class="list" href="/?p=wiringPi;a=search;s=Gordon+Henderson;st=author">Gordon Henderson</a></td><td><a class="list subject" title="Fixed a small bug in the ISR code where it was looking for the gpio program." href="/?p=wiringPi;a=commit;h=0150b024789f6b7356a738334d3b325a50297452">Fixed a small bug in the ISR code where it was looking... </a></td>
+<td class="link"><a href="/?p=wiringPi;a=commit;h=0150b024789f6b7356a738334d3b325a50297452">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=0150b024789f6b7356a738334d3b325a50297452">commitdiff</a> | <a href="/?p=wiringPi;a=tree;h=0150b024789f6b7356a738334d3b325a50297452;hb=0150b024789f6b7356a738334d3b325a50297452">tree</a> | <a title="in format: tar.gz" href="/?p=wiringPi;a=snapshot;h=0150b024789f6b7356a738334d3b325a50297452;sf=tgz">snapshot</a></td>
+</tr>
+<tr class="light">
+<td title="3 months ago"><i>2014-06-24</i></td>
+<td class="author"><a title="Search for commits authored by Gordon Henderson" class="list" href="/?p=wiringPi;a=search;s=Gordon+Henderson;st=author">Gordon Henderson</a></td><td><a class="list subject" href="/?p=wiringPi;a=commit;h=7cbb8865c8dc6675618a17492a1175c278d38685">Bumped version to 2.15</a></td>
+<td class="link"><a href="/?p=wiringPi;a=commit;h=7cbb8865c8dc6675618a17492a1175c278d38685">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=7cbb8865c8dc6675618a17492a1175c278d38685">commitdiff</a> | <a href="/?p=wiringPi;a=tree;h=7cbb8865c8dc6675618a17492a1175c278d38685;hb=7cbb8865c8dc6675618a17492a1175c278d38685">tree</a> | <a title="in format: tar.gz" href="/?p=wiringPi;a=snapshot;h=7cbb8865c8dc6675618a17492a1175c278d38685;sf=tgz">snapshot</a></td>
+</tr>
+<tr class="dark">
+<td title="3 months ago"><i>2014-06-24</i></td>
+<td class="author"><a title="Search for commits authored by Gordon Henderson" class="list" href="/?p=wiringPi;a=search;s=Gordon+Henderson;st=author">Gordon Henderson</a></td><td><a class="list subject" title="Updates for the Raspnerry Pi Compute Module - changes to the gpio program" href="/?p=wiringPi;a=commit;h=6fba403b2f749ae0ea64019037fc692f2de1483d">Updates for the Raspnerry Pi Compute Module - changes... </a></td>
+<td class="link"><a href="/?p=wiringPi;a=commit;h=6fba403b2f749ae0ea64019037fc692f2de1483d">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=6fba403b2f749ae0ea64019037fc692f2de1483d">commitdiff</a> | <a href="/?p=wiringPi;a=tree;h=6fba403b2f749ae0ea64019037fc692f2de1483d;hb=6fba403b2f749ae0ea64019037fc692f2de1483d">tree</a> | <a title="in format: tar.gz" href="/?p=wiringPi;a=snapshot;h=6fba403b2f749ae0ea64019037fc692f2de1483d;sf=tgz">snapshot</a></td>
+</tr>
+<tr class="light">
+<td title="5 months ago"><i>2014-05-20</i></td>
+<td class="author"><a title="Search for commits authored by Gordon Henderson" class="list" href="/?p=wiringPi;a=search;s=Gordon+Henderson;st=author">Gordon Henderson</a></td><td><a class="list subject" href="/?p=wiringPi;a=commit;h=05e2f67e7f43d83195fff108bcd952e7afe917ce">changed to pin mode to support softPwm.</a></td>
+<td class="link"><a href="/?p=wiringPi;a=commit;h=05e2f67e7f43d83195fff108bcd952e7afe917ce">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=05e2f67e7f43d83195fff108bcd952e7afe917ce">commitdiff</a> | <a href="/?p=wiringPi;a=tree;h=05e2f67e7f43d83195fff108bcd952e7afe917ce;hb=05e2f67e7f43d83195fff108bcd952e7afe917ce">tree</a> | <a title="in format: tar.gz" href="/?p=wiringPi;a=snapshot;h=05e2f67e7f43d83195fff108bcd952e7afe917ce;sf=tgz">snapshot</a></td>
+</tr>
+<tr class="dark">
+<td title="14 months ago"><i>2013-08-03</i></td>
+<td class="author"><a title="Search for commits authored by Gordon Henderson" class="list" href="/?p=wiringPi;a=search;s=Gordon+Henderson;st=author">Gordon Henderson</a></td><td><a class="list subject" title="Added some tweaks to gpio to set alt modes on pins (sssh!)" href="/?p=wiringPi;a=commit;h=f18c8f7204d6354220fd6754578b3daa43734e1b">Added some tweaks to gpio to set alt modes on pins... </a></td>
+<td class="link"><a href="/?p=wiringPi;a=commit;h=f18c8f7204d6354220fd6754578b3daa43734e1b">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=f18c8f7204d6354220fd6754578b3daa43734e1b">commitdiff</a> | <a href="/?p=wiringPi;a=tree;h=f18c8f7204d6354220fd6754578b3daa43734e1b;hb=f18c8f7204d6354220fd6754578b3daa43734e1b">tree</a> | <a title="in format: tar.gz" href="/?p=wiringPi;a=snapshot;h=f18c8f7204d6354220fd6754578b3daa43734e1b;sf=tgz">snapshot</a></td>
+</tr>
+<tr class="light">
+<td title="14 months ago"><i>2013-07-28</i></td>
+<td class="author"><a title="Search for commits authored by Gordon Henderson" class="list" href="/?p=wiringPi;a=search;s=Gordon+Henderson;st=author">Gordon Henderson</a></td><td><a class="list subject" href="/?p=wiringPi;a=commit;h=43422be6ac6f0dde5f2d8de38de634b21baa5e26">Bumped version</a></td>
+<td class="link"><a href="/?p=wiringPi;a=commit;h=43422be6ac6f0dde5f2d8de38de634b21baa5e26">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=43422be6ac6f0dde5f2d8de38de634b21baa5e26">commitdiff</a> | <a href="/?p=wiringPi;a=tree;h=43422be6ac6f0dde5f2d8de38de634b21baa5e26;hb=43422be6ac6f0dde5f2d8de38de634b21baa5e26">tree</a> | <a title="in format: tar.gz" href="/?p=wiringPi;a=snapshot;h=43422be6ac6f0dde5f2d8de38de634b21baa5e26;sf=tgz">snapshot</a></td>
+</tr>
+<tr class="dark">
+<td title="14 months ago"><i>2013-07-28</i></td>
+<td class="author"><a title="Search for commits authored by Gordon Henderson" class="list" href="/?p=wiringPi;a=search;s=Gordon+Henderson;st=author">Gordon Henderson</a></td><td><a class="list subject" href="/?p=wiringPi;a=commit;h=477f8562471d63933ec9f2d3916bd75887209c31">It helps if you add the files into GIT...</a></td>
+<td class="link"><a href="/?p=wiringPi;a=commit;h=477f8562471d63933ec9f2d3916bd75887209c31">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=477f8562471d63933ec9f2d3916bd75887209c31">commitdiff</a> | <a href="/?p=wiringPi;a=tree;h=477f8562471d63933ec9f2d3916bd75887209c31;hb=477f8562471d63933ec9f2d3916bd75887209c31">tree</a> | <a title="in format: tar.gz" href="/?p=wiringPi;a=snapshot;h=477f8562471d63933ec9f2d3916bd75887209c31;sf=tgz">snapshot</a></td>
+</tr>
+<tr class="light">
+<td title="14 months ago"><i>2013-07-28</i></td>
+<td class="author"><a title="Search for commits authored by Gordon Henderson" class="list" href="/?p=wiringPi;a=search;s=Gordon+Henderson;st=author">Gordon Henderson</a></td><td><a class="list subject" href="/?p=wiringPi;a=commit;h=f52dd8393ce1c85edb8e4d74d76920417b96c493">Minor changes to the files and removed a bit of debug.</a></td>
+<td class="link"><a href="/?p=wiringPi;a=commit;h=f52dd8393ce1c85edb8e4d74d76920417b96c493">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=f52dd8393ce1c85edb8e4d74d76920417b96c493">commitdiff</a> | <a href="/?p=wiringPi;a=tree;h=f52dd8393ce1c85edb8e4d74d76920417b96c493;hb=f52dd8393ce1c85edb8e4d74d76920417b96c493">tree</a> | <a title="in format: tar.gz" href="/?p=wiringPi;a=snapshot;h=f52dd8393ce1c85edb8e4d74d76920417b96c493;sf=tgz">snapshot</a></td>
+</tr>
+<tr class="dark">
+<td title="14 months ago"><i>2013-07-28</i></td>
+<td class="author"><a title="Search for commits authored by Gordon Henderson" class="list" href="/?p=wiringPi;a=search;s=Gordon+Henderson;st=author">Gordon Henderson</a></td><td><a class="list subject" title="tidied and tested DRC Serial (renamed it it drcSerial too)" href="/?p=wiringPi;a=commit;h=5e16e15a59437fc93d75f31d9c37abfe9febd479">tidied and tested DRC Serial (renamed it it drcSerial... </a></td>
+<td class="link"><a href="/?p=wiringPi;a=commit;h=5e16e15a59437fc93d75f31d9c37abfe9febd479">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=5e16e15a59437fc93d75f31d9c37abfe9febd479">commitdiff</a> | <a href="/?p=wiringPi;a=tree;h=5e16e15a59437fc93d75f31d9c37abfe9febd479;hb=5e16e15a59437fc93d75f31d9c37abfe9febd479">tree</a> | <a title="in format: tar.gz" href="/?p=wiringPi;a=snapshot;h=5e16e15a59437fc93d75f31d9c37abfe9febd479;sf=tgz">snapshot</a></td>
+</tr>
+<tr class="light">
+<td title="14 months ago"><i>2013-07-24</i></td>
+<td class="author"><a title="Search for commits authored by Gordon Henderson" class="list" href="/?p=wiringPi;a=search;s=Gordon+Henderson;st=author">Gordon Henderson</a></td><td><a class="list subject" href="/?p=wiringPi;a=commit;h=e25cbc0a627b6d109f7ac1ff6d7591af1b0b552f">Added in the PiGlow devLib extension driver.</a></td>
+<td class="link"><a href="/?p=wiringPi;a=commit;h=e25cbc0a627b6d109f7ac1ff6d7591af1b0b552f">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=e25cbc0a627b6d109f7ac1ff6d7591af1b0b552f">commitdiff</a> | <a href="/?p=wiringPi;a=tree;h=e25cbc0a627b6d109f7ac1ff6d7591af1b0b552f;hb=e25cbc0a627b6d109f7ac1ff6d7591af1b0b552f">tree</a> | <a title="in format: tar.gz" href="/?p=wiringPi;a=snapshot;h=e25cbc0a627b6d109f7ac1ff6d7591af1b0b552f;sf=tgz">snapshot</a></td>
+</tr>
+<tr class="dark">
+<td title="15 months ago"><i>2013-07-23</i></td>
+<td class="author"><a title="Search for commits authored by Gordon Henderson" class="list" href="/?p=wiringPi;a=search;s=Gordon+Henderson;st=author">Gordon Henderson</a></td><td><a class="list subject" title="Added in PiGlow devLib and a couple of examples for the PiGlow" href="/?p=wiringPi;a=commit;h=cbf6d642b5a593b971fcc8181cb692c539353d04">Added in PiGlow devLib and a couple of examples for... </a></td>
+<td class="link"><a href="/?p=wiringPi;a=commit;h=cbf6d642b5a593b971fcc8181cb692c539353d04">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=cbf6d642b5a593b971fcc8181cb692c539353d04">commitdiff</a> | <a href="/?p=wiringPi;a=tree;h=cbf6d642b5a593b971fcc8181cb692c539353d04;hb=cbf6d642b5a593b971fcc8181cb692c539353d04">tree</a> | <a title="in format: tar.gz" href="/?p=wiringPi;a=snapshot;h=cbf6d642b5a593b971fcc8181cb692c539353d04;sf=tgz">snapshot</a></td>
+</tr>
+<tr class="light">
+<td title="15 months ago"><i>2013-07-23</i></td>
+<td class="author"><a title="Search for commits authored by Gordon Henderson" class="list" href="/?p=wiringPi;a=search;s=Gordon+Henderson;st=author">Gordon Henderson</a></td><td><a class="list subject" title="Added in the SN3218 LED controller IC - as used in the PiGlow" href="/?p=wiringPi;a=commit;h=d24cf0630bb2653e95b93b89a12412c9bcf9a27b">Added in the SN3218 LED controller IC - as used in... </a></td>
+<td class="link"><a href="/?p=wiringPi;a=commit;h=d24cf0630bb2653e95b93b89a12412c9bcf9a27b">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=d24cf0630bb2653e95b93b89a12412c9bcf9a27b">commitdiff</a> | <a href="/?p=wiringPi;a=tree;h=d24cf0630bb2653e95b93b89a12412c9bcf9a27b;hb=d24cf0630bb2653e95b93b89a12412c9bcf9a27b">tree</a> | <a title="in format: tar.gz" href="/?p=wiringPi;a=snapshot;h=d24cf0630bb2653e95b93b89a12412c9bcf9a27b;sf=tgz">snapshot</a></td>
+</tr>
+<tr class="dark">
+<td title="15 months ago"><i>2013-07-23</i></td>
+<td class="author"><a title="Search for commits authored by Gordon Henderson" class="list" href="/?p=wiringPi;a=search;s=Gordon+Henderson;st=author">Gordon Henderson</a></td><td><a class="list subject" title="Reverted gpio readall to older version - new version is gpio nreadall" href="/?p=wiringPi;a=commit;h=8c8578a26b17a95e388e00d48cd1a8a042ffc025">Reverted gpio readall to older version - new version... </a></td>
+<td class="link"><a href="/?p=wiringPi;a=commit;h=8c8578a26b17a95e388e00d48cd1a8a042ffc025">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=8c8578a26b17a95e388e00d48cd1a8a042ffc025">commitdiff</a> | <a href="/?p=wiringPi;a=tree;h=8c8578a26b17a95e388e00d48cd1a8a042ffc025;hb=8c8578a26b17a95e388e00d48cd1a8a042ffc025">tree</a> | <a title="in format: tar.gz" href="/?p=wiringPi;a=snapshot;h=8c8578a26b17a95e388e00d48cd1a8a042ffc025;sf=tgz">snapshot</a></td>
+</tr>
+<tr class="light">
+<td title="15 months ago"><i>2013-07-16</i></td>
+<td class="author"><a title="Search for commits authored by Gordon Henderson" class="list" href="/?p=wiringPi;a=search;s=Gordon+Henderson;st=author">Gordon Henderson</a></td><td><a class="list subject" href="/?p=wiringPi;a=commit;h=27afc017b9d8f08f2f67b990c078d3127f7c4ef1">Added in a max5322 SPI D to A chip</a></td>
+<td class="link"><a href="/?p=wiringPi;a=commit;h=27afc017b9d8f08f2f67b990c078d3127f7c4ef1">commit</a> | <a href="/?p=wiringPi;a=commitdiff;h=27afc017b9d8f08f2f67b990c078d3127f7c4ef1">commitdiff</a> | <a href="/?p=wiringPi;a=tree;h=27afc017b9d8f08f2f67b990c078d3127f7c4ef1;hb=27afc017b9d8f08f2f67b990c078d3127f7c4ef1">tree</a> | <a title="in format: tar.gz" href="/?p=wiringPi;a=snapshot;h=27afc017b9d8f08f2f67b990c078d3127f7c4ef1;sf=tgz">snapshot</a></td>
+</tr>
+<tr>
+<td colspan="4"><a href="/?p=wiringPi;a=shortlog">...</a></td>
+</tr>
+</table>
+<div class="header">
+<a class="title" href="/?p=wiringPi;a=heads">heads</a>
+</div>
+<table class="heads">
+<tr class="dark">
+<td><i>3 months ago</i></td>
+<td class="current_head"><a class="list name" href="/?p=wiringPi;a=shortlog;h=refs/heads/master">master</a></td>
+<td class="link"><a href="/?p=wiringPi;a=shortlog;h=refs/heads/master">shortlog</a> | <a href="/?p=wiringPi;a=log;h=refs/heads/master">log</a> | <a href="/?p=wiringPi;a=tree;h=refs/heads/master;hb=refs/heads/master">tree</a></td>
+</tr></table>
+<div class="page_footer">
+<div class="page_footer_text">wiringPi - A 'wiring' like library for the Raspberry Pi</div>
+<a class="rss_logo" title="log RSS feed" href="/?p=wiringPi;a=rss">RSS</a>
+<a class="rss_logo" title="log Atom feed" href="/?p=wiringPi;a=atom">Atom</a>
+</div>
+<script type="text/javascript" src="static/gitweb.js"></script>
+<script type="text/javascript">
+window.onload = function () {
+	var tz_cookie = { name: 'gitweb_tz', expires: 14, path: '/' };
+	onloadTZSetup('local', tz_cookie, 'datetime');
+};
+</script>
+</body>
+</html>

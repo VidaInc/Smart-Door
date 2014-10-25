@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://www.python.org/topics/xml/dtds/xbel-1.0.dtd">
+<xbel version="1.0" xmlns:midori="http://www.twotoasts.de">
+<info>
+<metadata midori:current="2" owner="http://www.twotoasts.de"/>
+</info>
+<bookmark href="https://git.drogon.net/?p=wiringPi;a=summary">
+<title>‪Error - https://git.drogon.net/?p=wiringPi;a=summary</title>
+<info>
+<metadata midori:icon="https://git.drogon.net/static/git-favicon.png" midori:history-step="2" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="https://mail.google.com/mail/u/0/#inbox">
+<title>‪https://mail.google.com/mail/u/0/#inbox</title>
+<info>
+<metadata midori:history-step="1" midori:icon="text-html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="https://github.com/VidaInc/Hub">
+<title>‪VidaInc/Hub</title>
+<info>
+<metadata midori:history-step="2" midori:icon="https://assets-cdn.github.com/favicon.ico" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+</xbel>
