@@ -1,0 +1,44 @@
+﻿added 2.4GH code 
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    .cache/midori/icons/5dd122cca57016da591abf8dc1813dbf.ico?v=038622610830
+#	modified:   .xsession-errors
+#	deleted:    433Utils
+#	deleted:    MFRC522-python
+#	deleted:    SPI-Py
+#	new file:   arduipi/arpicom.sh
+#	new file:   arduipi/bashtopy.sh
+#	new file:   arduipi/pyserialcom.py
+#	new file:   arduipi/test.py
+#	new file:   arduipi/thread.py
+#	modified:   button.py
+#	modified:   cmus-2.6.0/cmus-status-display
+#	modified:   cmus-2.6.0/configure
+#	modified:   cmus-2.6.0/scripts/checks.sh
+#	modified:   cmus-2.6.0/scripts/configure.sh
+#	modified:   cmus-2.6.0/scripts/ffmpeg_test.sh
+#	modified:   cmus-2.6.0/scripts/gen_decomp.py
+#	modified:   cmus-2.6.0/scripts/install
+#	modified:   cmus-2.6.0/scripts/lib.mk
+#	modified:   cmus-2.6.0/scripts/uninstall
+#	modified:   cmus-2.6.0/scripts/utils.sh
+#	deleted:    github/Hub/Hub
+#	deleted:    index.html?p=wiringPi
+#	modified:   listen.py
+#	modified:   pi.tar.gz
+#	modified:   python_games/launcher.sh
+#	deleted:    rcswitch-pi
+#	modified:   readpin.py
+#	modified:   readpins.py
+#	modified:   sendsocket.py
+#	modified:   socket/trysocket.py
+#	modified:   test.py
+#	modified:   webpy/server.py
+#	deleted:    wire
+#	deleted:    wiringPi
+#
+
