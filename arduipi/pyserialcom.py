@@ -95,6 +95,33 @@ def changecolor(deviceID, Red, Green, Blue):
         print ('colours not sent')
         return 1 
 
+'''
+Light close function 
+This function turns the light on,off and set auto, or turns the light to white
+
+Input: 
+deviceID
+state:  limited to:  on, off, auto ,and white 
+
+Output: the output of this function is 0 if all commands are received 
+and 1 if one of the messages failed 
+'''
+def lightstate(deviceID,state)
+    if (state == 'on'): 
+        message = deviceID + '011000'
+        return arduisend(message)
+    else if (state == 'off'):
+        message = deviceID + '010000'
+        return arduisend(message)
+    else if (state == 'auto')
+        message = deviceID + '012000'
+        return arduisend(message)
+    else if (state == 'white')
+        message = deviceID + '013000'
+        return arduisend(message)
+    else:
+        return 'command not recognized' 
+
 ''' 
 Sensor Poll function: pollsensor
 this function sends a message and returns the sensor information from 
@@ -107,7 +134,7 @@ if failed, returns the value read from serial port
 
 '''
 def pollsensor(deviceID)
-    mssage = deviceID + '013000'
+    mssage = deviceID + '030000'
     arduisend('mssage')
 
     val = arduireceive()
