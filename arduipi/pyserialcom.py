@@ -106,7 +106,7 @@ state:  limited to:  on, off, auto ,and white
 Output: the output of this function is 0 if all commands are received 
 and 1 if one of the messages failed 
 '''
-def lightstate(deviceID,state)
+def lightstate(deviceID,state):
     if (state == 'on'): 
         message = deviceID + '011000'
         return arduisend(message)
@@ -133,7 +133,7 @@ Output: the sensor information
 if failed, returns the value read from serial port
 
 '''
-def pollsensor(deviceID)
+def pollsensor(deviceID):
     mssage = deviceID + '030000'
     arduisend('mssage')
 
